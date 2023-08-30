@@ -1,3 +1,11 @@
+/*
+Segundo a OMS (organização Mundial de Saúde), o IMC normal está entre 18.5 e 25. Faça 
+um programa que calcule o IMC para imprimir na tela se para os valores configurados a 
+pessoa está "Abaixo do Peso", "Normal" ou "Acima do Peso". 
+◦ A fórmula para calcular o Índice de Massa Corporal é: IMC = peso / (altura)^2
+◦ Proíba a entrada de números negativos do usuário (evitar que a entrada seja um número negativo)
+*/
+
 import java.util.Locale;
 import java.util.Scanner;
 
